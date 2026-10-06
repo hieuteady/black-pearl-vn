@@ -1,0 +1,17 @@
+{
+  "name": "blackpearl-pos-report",
+  "version": "1.0.0",
+  "description": "Local reporting app for Black Pearl technical test",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "start:bootstrap": "node src/bootstrap-and-start.js",
+    "dev": "node src/server.js",
+    "import:batch1": "node src/cli-import.js batch_1",
+    "import:batch2": "node src/cli-import.js batch_2"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.8.1",
+    "express": "^4.21.2"
+  }
+}

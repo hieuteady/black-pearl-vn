@@ -1,0 +1,174 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Black Pearl POS Report</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Black Pearl Việt Nam</p>
+          <h1>POS Revenue Dashboard</h1>
+          <p class="subtitle">Theo dõi doanh thu theo ngày/cửa hàng, phát hiện thiếu dữ liệu và đối soát đơn lỗi.</p>
+        </div>
+      </header>
+
+      <section class="card">
+        <h2>Import dữ liệu</h2>
+        <div class="row">
+          <button class="btn btn-primary" id="import-batch1">Import batch_1</button>
+          <button class="btn btn-primary" id="import-batch2">Import batch_2</button>
+          <button class="btn" id="reload-meta">Reload metadata</button>
+        </div>
+        <pre id="import-result"></pre>
+      </section>
+
+      <section class="card">
+        <h2>Bộ lọc</h2>
+        <div class="row">
+          <label>
+            Từ ngày
+            <input type="date" id="from-date" />
+          </label>
+          <label>
+            Đến ngày
+            <input type="date" id="to-date" />
+          </label>
+          <label>
+            Cửa hàng
+            <select id="store-select">
+              <option value="">Tất cả</option>
+            </select>
+          </label>
+          <button class="btn btn-primary" id="refresh-reports">Lấy báo cáo</button>
+        </div>
+        <p id="action-status" class="action-status hidden" aria-live="polite"></p>
+      </section>
+
+      <section class="stats-grid">
+        <article class="stat-card">
+          <p class="stat-label">Tổng doanh thu</p>
+          <p class="stat-value" id="stat-revenue">0</p>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">Tổng số đơn</p>
+          <p class="stat-value" id="stat-orders">0</p>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">Đơn lệch đối soát</p>
+          <p class="stat-value" id="stat-recon">0</p>
+        </article>
+        <article class="stat-card">
+          <p class="stat-label">Điểm thiếu dữ liệu</p>
+          <p class="stat-value" id="stat-missing">0</p>
+        </article>
+      </section>
+
+      <section class="chart-grid">
+        <article class="card chart-card">
+          <h2>Biểu đồ doanh thu theo ngày</h2>
+          <canvas id="dailyRevenueChart"></canvas>
+        </article>
+        <article class="card chart-card">
+          <h2>Doanh thu theo cửa hàng</h2>
+          <canvas id="storeRevenueChart"></canvas>
+        </article>
+      </section>
+
+      <section class="card">
+        <h2>1) Doanh thu & số đơn theo cửa hàng × ngày</h2>
+        <a class="export-link" id="export-revenue" href="#">Export CSV</a>
+        <div class="table-wrap">
+          <table id="revenue-table">
+            <thead>
+              <tr>
+                <th>Ngày</th>
+                <th>Cửa hàng</th>
+                <th>Số đơn</th>
+                <th>Doanh thu</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+            <tfoot></tfoot>
+          </table>
+        </div>
+        <p id="revenue-empty" class="table-note hidden"></p>
+      </section>
+
+      <section class="card">
+        <h2>2) Cảnh báo thiếu dữ liệu</h2>
+        <a class="export-link" id="export-missing" href="#">Export CSV</a>
+        <div class="table-wrap">
+          <table id="missing-table">
+            <thead>
+              <tr>
+                <th>Ngày</th>
+                <th>Cửa hàng</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p id="missing-empty" class="table-note hidden"></p>
+      </section>
+
+      <section class="card">
+        <h2>3) Đối soát total_amount</h2>
+        <a class="export-link" id="export-reconciliation" href="#">Export CSV</a>
+        <div class="table-wrap">
+          <table id="reconciliation-table">
+            <thead>
+              <tr>
+                <th>order_id</th>
+                <th>Ngày</th>
+                <th>Cửa hàng</th>
+                <th>Total POS</th>
+                <th>Total tính lại</th>
+                <th>Lệch</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p id="reconciliation-empty" class="table-note hidden"></p>
+      </section>
+
+      <section class="card">
+        <h2>4) Bản ghi bị loại</h2>
+        <a class="export-link" id="export-invalid" href="#">Export CSV</a>
+        <div class="table-wrap">
+          <table id="invalid-table">
+            <thead>
+              <tr>
+                <th>ID</th>
+                <th>Batch</th>
+                <th>Index</th>
+                <th>Order ID</th>
+                <th>Lý do</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+        <p id="invalid-empty" class="table-note hidden"></p>
+      </section>
+    </main>
+
+    <div class="modal hidden" id="order-modal">
+      <div class="modal-backdrop" id="order-modal-backdrop"></div>
+      <div class="modal-content">
+        <div class="modal-header">
+          <h3 id="order-modal-title">Chi tiết đơn hàng</h3>
+          <button class="btn" id="order-modal-close">Đóng</button>
+        </div>
+        <pre id="order-modal-body"></pre>
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
+    <script src="/app.js"></script>
+  </body>
+</html>

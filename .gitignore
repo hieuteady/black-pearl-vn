@@ -1,0 +1,43 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Node dependencies and build artifacts
+node_modules/
+web/node_modules/
+dist/
+build/
+coverage/
+
+# Runtime local database / temp
+web/data/
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+
+# Session / temp artifacts
+.copilot/
+tmp/
+temp/
+
+# Files explicitly excluded from git by request
+plan.md
+todo.md
+README_requirement.md
+feature-audit.md
+web/docs/feature-audit.md

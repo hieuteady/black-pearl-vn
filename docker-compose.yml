@@ -1,0 +1,15 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: web/Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      PORT: "3000"
+      AUTO_IMPORT: "true"
+    volumes:
+      - web_db_data:/app/web/data
+
+volumes:
+  web_db_data:

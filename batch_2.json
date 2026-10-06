@@ -1,0 +1,8338 @@
+{
+ "pulled_at": "2026-09-08T20:00:00Z",
+ "orders": [
+  {
+   "order_id": "CH04-00058",
+   "store_id": "CH04",
+   "created_at": "2026-09-04T17:03:00Z",
+   "updated_at": "2026-09-04T17:09:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 121000
+  },
+  {
+   "order_id": "CH05-00066",
+   "store_id": "CH05",
+   "created_at": "2026-09-04T17:03:00Z",
+   "updated_at": "2026-09-04T17:13:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 77000
+  },
+  {
+   "order_id": "CH01-00060",
+   "store_id": "CH01",
+   "created_at": "2026-09-04T17:07:00Z",
+   "updated_at": "2026-09-04T17:13:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 53000
+  },
+  {
+   "order_id": "CH03-00071",
+   "store_id": "CH03",
+   "created_at": "2026-09-04T17:12:00Z",
+   "updated_at": "2026-09-04T17:27:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 119000
+  },
+  {
+   "order_id": "CH04-00057",
+   "store_id": "CH04",
+   "created_at": "2026-09-04T17:28:00Z",
+   "updated_at": "2026-09-04T17:30:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 60000
+  },
+  {
+   "order_id": "CH04-00094",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T11:19:00Z",
+   "updated_at": "2026-09-07T11:20:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 46000
+  },
+  {
+   "order_id": "CH03-00070",
+   "store_id": "CH03",
+   "created_at": "2026-09-04T17:30:00Z",
+   "updated_at": "2026-09-04T17:36:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 84000
+  },
+  {
+   "order_id": "CH02-00055",
+   "store_id": "CH02",
+   "created_at": "2026-09-04T17:33:00Z",
+   "updated_at": "2026-09-04T17:36:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 36000
+  },
+  {
+   "order_id": "CH01-00059",
+   "store_id": "CH01",
+   "created_at": "2026-09-04T17:34:00Z",
+   "updated_at": "2026-09-04T17:48:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 88000
+  },
+  {
+   "order_id": "CH05-00067",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T01:19:00Z",
+   "updated_at": "2026-09-05T01:35:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 34000
+  },
+  {
+   "order_id": "CH03-00072",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T01:23:00Z",
+   "updated_at": "2026-09-05T01:41:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 78000
+  },
+  {
+   "order_id": "CH04-00059",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T01:24:00Z",
+   "updated_at": "2026-09-05T01:32:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 122000
+  },
+  {
+   "order_id": "CH01-00061",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T01:30:00Z",
+   "updated_at": "2026-09-05T01:44:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 126000
+  },
+  {
+   "order_id": "CH02-00056",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T02:02:00Z",
+   "updated_at": "2026-09-05T02:20:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 82000
+  },
+  {
+   "order_id": "CH05-00068",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T02:06:00Z",
+   "updated_at": "2026-09-05T02:26:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 2,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 202000
+  },
+  {
+   "order_id": "CH02-00057",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T02:27:00Z",
+   "updated_at": "2026-09-05T02:43:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 109000
+  },
+  {
+   "order_id": "CH04-00060",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T02:35:00Z",
+   "updated_at": "2026-09-05T02:49:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 66000
+  },
+  {
+   "order_id": "CH05-00069",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T02:39:00Z",
+   "updated_at": "2026-09-05T02:53:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 129000
+  },
+  {
+   "order_id": "CH04-00061",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T02:47:00Z",
+   "updated_at": "2026-09-05T03:04:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 45000
+  },
+  {
+   "order_id": "CH02-00058",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T02:50:00Z",
+   "updated_at": "2026-09-05T03:07:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 76000
+  },
+  {
+   "order_id": "CH01-00062",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T02:56:00Z",
+   "updated_at": "2026-09-05T03:14:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 53000
+  },
+  {
+   "order_id": "CH04-00062",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T03:01:00Z",
+   "updated_at": "2026-09-05T03:07:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 169000
+  },
+  {
+   "order_id": "CH05-00070",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T03:20:00Z",
+   "updated_at": "2026-09-05T03:39:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 195000
+  },
+  {
+   "order_id": "CH05-00071",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T03:24:00Z",
+   "updated_at": "2026-09-05T03:30:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 2,
+     "unit_price": 35000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 139000
+  },
+  {
+   "order_id": "CH05-00072",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T03:48:00Z",
+   "updated_at": "2026-09-05T03:50:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 95000
+  },
+  {
+   "order_id": "CH02-00059",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T03:55:00Z",
+   "updated_at": "2026-09-05T04:02:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 114000
+  },
+  {
+   "order_id": "CH01-00063",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T04:01:00Z",
+   "updated_at": "2026-09-05T04:19:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 74000
+  },
+  {
+   "order_id": "CH03-00073",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T04:01:00Z",
+   "updated_at": "2026-09-05T04:07:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 32000
+  },
+  {
+   "order_id": "CH03-00074",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T04:19:00Z",
+   "updated_at": "2026-09-05T04:38:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 32000
+  },
+  {
+   "order_id": "CH02-00060",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T04:32:00Z",
+   "updated_at": "2026-09-05T04:38:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 120000
+  },
+  {
+   "order_id": "CH05-00073",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T04:40:00Z",
+   "updated_at": "2026-09-05T04:59:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 211000
+  },
+  {
+   "order_id": "CH03-00075",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T05:14:00Z",
+   "updated_at": "2026-09-05T05:27:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 49000
+  },
+  {
+   "order_id": "CH04-00063",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T05:26:00Z",
+   "updated_at": "2026-09-05T05:27:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 179000
+  },
+  {
+   "order_id": "CH02-00061",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T06:21:00Z",
+   "updated_at": "2026-09-05T06:33:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 90000
+  },
+  {
+   "order_id": "CH01-00064",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T06:47:00Z",
+   "updated_at": "2026-09-05T07:05:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 82000
+  },
+  {
+   "order_id": "CH01-00065",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T06:48:00Z",
+   "updated_at": "2026-09-08T03:52:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 2,
+     "unit_price": 35000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 102000
+  },
+  {
+   "order_id": "CH02-00062",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T07:07:00Z",
+   "updated_at": "2026-09-05T07:11:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 32000
+  },
+  {
+   "order_id": "CH03-00076",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T07:13:00Z",
+   "updated_at": "2026-09-05T07:14:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 116000
+  },
+  {
+   "order_id": "CH03-00077",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T07:27:00Z",
+   "updated_at": "2026-09-05T07:33:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 84000
+  },
+  {
+   "order_id": "CH02-00063",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T07:31:00Z",
+   "updated_at": "2026-09-05T07:40:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 184000
+  },
+  {
+   "order_id": "CH05-00074",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T07:34:00Z",
+   "updated_at": "2026-09-05T07:53:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 88000
+  },
+  {
+   "order_id": "CH05-00075",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T08:32:00Z",
+   "updated_at": "2026-09-05T08:43:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 105000
+  },
+  {
+   "order_id": "CH03-00078",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T08:40:00Z",
+   "updated_at": "2026-09-05T08:50:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 74000
+  },
+  {
+   "order_id": "CH04-00064",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T08:41:00Z",
+   "updated_at": "2026-09-05T08:51:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 42000
+  },
+  {
+   "order_id": "CH01-00066",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T08:54:00Z",
+   "updated_at": "2026-09-05T09:03:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 81000
+  },
+  {
+   "order_id": "CH05-00076",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T08:58:00Z",
+   "updated_at": "2026-09-05T09:10:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 143000
+  },
+  {
+   "order_id": "CH02-00064",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T09:16:00Z",
+   "updated_at": "2026-09-05T09:23:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 48000
+  },
+  {
+   "order_id": "CH02-00065",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T09:32:00Z",
+   "updated_at": "2026-09-05T09:40:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 42000
+  },
+  {
+   "order_id": "CH02-00066",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T09:49:00Z",
+   "updated_at": "2026-09-05T10:04:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 34000
+  },
+  {
+   "order_id": "CH03-00079",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T10:29:00Z",
+   "updated_at": "2026-09-05T10:47:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 134000
+  },
+  {
+   "order_id": "CH03-00080",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T10:32:00Z",
+   "updated_at": "2026-09-05T10:38:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 51000
+  },
+  {
+   "order_id": "CH04-00065",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T10:38:00Z",
+   "updated_at": "2026-09-05T10:49:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 110000
+  },
+  {
+   "order_id": "CH05-00077",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T10:47:00Z",
+   "updated_at": "2026-09-05T10:49:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 173000
+  },
+  {
+   "order_id": "CH03-00081",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T11:25:00Z",
+   "updated_at": "2026-09-05T11:34:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 49000
+  },
+  {
+   "order_id": "CH05-00078",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T11:57:00Z",
+   "updated_at": "2026-09-05T12:15:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 59000
+  },
+  {
+   "order_id": "CH03-00082",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T12:00:00Z",
+   "updated_at": "2026-09-05T12:06:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 173000
+  },
+  {
+   "order_id": "CH04-00066",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T12:54:00Z",
+   "updated_at": "2026-09-05T13:09:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 32000
+  },
+  {
+   "order_id": "CH03-00083",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T12:56:00Z",
+   "updated_at": "2026-09-05T12:58:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 49000
+  },
+  {
+   "order_id": "CH02-00067",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T12:58:00Z",
+   "updated_at": "2026-09-05T12:59:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 78000
+  },
+  {
+   "order_id": "CH03-00084",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T13:07:00Z",
+   "updated_at": "2026-09-05T13:08:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 49000
+  },
+  {
+   "order_id": "CH02-00068",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T13:08:00Z",
+   "updated_at": "2026-09-05T13:15:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 42000
+  },
+  {
+   "order_id": "CH02-00069",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T13:11:00Z",
+   "updated_at": "2026-09-05T13:21:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 150000
+  },
+  {
+   "order_id": "CH04-00067",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T13:16:00Z",
+   "updated_at": "2026-09-05T13:27:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 45000
+  },
+  {
+   "order_id": "CH03-00085",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T13:21:00Z",
+   "updated_at": "2026-09-05T13:37:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 150000
+  },
+  {
+   "order_id": "CH01-00067",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T13:43:00Z",
+   "updated_at": "2026-09-05T13:56:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 115000
+  },
+  {
+   "order_id": "CH01-00068",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T14:02:00Z",
+   "updated_at": "2026-09-05T14:10:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 44000
+  },
+  {
+   "order_id": "CH05-00079",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T14:10:00Z",
+   "updated_at": "2026-09-05T14:16:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 71000
+  },
+  {
+   "order_id": "CH03-00086",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T14:12:00Z",
+   "updated_at": "2026-09-08T02:59:00Z",
+   "status": "cancelled",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 129000
+  },
+  {
+   "order_id": "CH03-00087",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T14:38:00Z",
+   "updated_at": "2026-09-05T14:47:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 48000
+  },
+  {
+   "order_id": "CH04-00068",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T14:46:00Z",
+   "updated_at": "2026-09-05T14:47:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 84000
+  },
+  {
+   "order_id": "CH01-00069",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T14:55:00Z",
+   "updated_at": "2026-09-05T15:14:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 96000
+  },
+  {
+   "order_id": "CH01-00070",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T15:30:00Z",
+   "updated_at": "2026-09-05T15:48:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 97000
+  },
+  {
+   "order_id": "CH03-00088",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T16:02:00Z",
+   "updated_at": "2026-09-05T16:04:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 67000
+  },
+  {
+   "order_id": "CH02-00070",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T16:27:00Z",
+   "updated_at": "2026-09-05T16:39:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 104000
+  },
+  {
+   "order_id": "CH01-00071",
+   "store_id": "CH01",
+   "created_at": "2026-09-05T17:00:00Z",
+   "updated_at": "2026-09-05T17:16:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 47000
+  },
+  {
+   "order_id": "CH04-00069",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T17:05:00Z",
+   "updated_at": "2026-09-05T17:15:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 69000
+  },
+  {
+   "order_id": "CH05-00080",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T17:14:00Z",
+   "updated_at": "2026-09-08T02:09:00Z",
+   "status": "cancelled",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 37000
+  },
+  {
+   "order_id": "CH02-00071",
+   "store_id": "CH02",
+   "created_at": "2026-09-05T17:16:00Z",
+   "updated_at": "2026-09-05T17:33:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 82000
+  },
+  {
+   "order_id": "CH05-00081",
+   "store_id": "CH05",
+   "created_at": "2026-09-05T17:31:00Z",
+   "updated_at": "2026-09-05T17:37:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 119000
+  },
+  {
+   "order_id": "CH04-00070",
+   "store_id": "CH04",
+   "created_at": "2026-09-05T17:37:00Z",
+   "updated_at": "2026-09-05T17:45:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 2,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 188000
+  },
+  {
+   "order_id": "CH03-00089",
+   "store_id": "CH03",
+   "created_at": "2026-09-05T17:40:00Z",
+   "updated_at": "2026-09-05T17:43:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 78000
+  },
+  {
+   "order_id": "CH04-00071",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T01:06:00Z",
+   "updated_at": "2026-09-06T01:11:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 29000
+  },
+  {
+   "order_id": "CH03-00090",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T01:11:00Z",
+   "updated_at": "2026-09-06T01:14:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 87000
+  },
+  {
+   "order_id": "CH03-00091",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T01:18:00Z",
+   "updated_at": "2026-09-06T01:28:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 36000
+  },
+  {
+   "order_id": "CH02-00072",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T01:30:00Z",
+   "updated_at": "2026-09-06T01:41:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 84000
+  },
+  {
+   "order_id": "CH02-00073",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T01:47:00Z",
+   "updated_at": "2026-09-06T02:03:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 89000
+  },
+  {
+   "order_id": "CH01-00072",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T02:07:00Z",
+   "updated_at": "2026-09-06T02:13:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 85000
+  },
+  {
+   "order_id": "CH03-00092",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T02:10:00Z",
+   "updated_at": "2026-09-06T02:21:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 130000
+  },
+  {
+   "order_id": "CH01-00073",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T02:25:00Z",
+   "updated_at": "2026-09-06T02:45:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 33000
+  },
+  {
+   "order_id": "CH01-00074",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T02:30:00Z",
+   "updated_at": "2026-09-06T02:31:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 122000
+  },
+  {
+   "order_id": "CH01-00075",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T02:33:00Z",
+   "updated_at": "2026-09-06T02:41:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 195000
+  },
+  {
+   "order_id": "CH02-00074",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T02:43:00Z",
+   "updated_at": "2026-09-06T02:47:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 107000
+  },
+  {
+   "order_id": "CH01-00076",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T02:45:00Z",
+   "updated_at": "2026-09-06T02:48:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 85000
+  },
+  {
+   "order_id": "CH02-00075",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T03:06:00Z",
+   "updated_at": "2026-09-06T03:26:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 121000
+  },
+  {
+   "order_id": "CH01-00077",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T03:25:00Z",
+   "updated_at": "2026-09-06T03:34:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 112000
+  },
+  {
+   "order_id": "CH03-00093",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T03:42:00Z",
+   "updated_at": "2026-09-06T03:48:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 46000
+  },
+  {
+   "order_id": "CH02-00076",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T04:11:00Z",
+   "updated_at": "2026-09-06T04:25:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": []
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 2,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 159000
+  },
+  {
+   "order_id": "CH03-00094",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T04:16:00Z",
+   "updated_at": "2026-09-06T04:22:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 106000
+  },
+  {
+   "order_id": "CH01-00078",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T04:36:00Z",
+   "updated_at": "2026-09-06T04:53:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 119000
+  },
+  {
+   "order_id": "CH04-00072",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T04:44:00Z",
+   "updated_at": "2026-09-06T05:00:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 38000
+  },
+  {
+   "order_id": "CH02-00077",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T04:51:00Z",
+   "updated_at": "2026-09-06T04:57:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 139000
+  },
+  {
+   "order_id": "CH05-00082",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T04:51:00Z",
+   "updated_at": "2026-09-06T05:09:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 84000
+  },
+  {
+   "order_id": "CH05-00083",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T05:11:00Z",
+   "updated_at": "2026-09-06T05:27:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 38000
+  },
+  {
+   "order_id": "CH03-00095",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T05:20:00Z",
+   "updated_at": "2026-09-06T05:32:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 127000
+  },
+  {
+   "order_id": "CH02-00078",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T05:43:00Z",
+   "updated_at": "2026-09-06T05:56:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 2,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 142000
+  },
+  {
+   "order_id": "CH03-00096",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T06:12:00Z",
+   "updated_at": "2026-09-06T06:13:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 134000
+  },
+  {
+   "order_id": "CH03-00097",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T06:12:00Z",
+   "updated_at": "2026-09-06T06:20:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 48000
+  },
+  {
+   "order_id": "CH04-00073",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T08:12:00Z",
+   "updated_at": "2026-09-06T08:25:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 2,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 2,
+     "unit_price": 42000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 223000
+  },
+  {
+   "order_id": "CH01-00079",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T08:14:00Z",
+   "updated_at": "2026-09-06T08:21:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 95000
+  },
+  {
+   "order_id": "CH05-00084",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T08:30:00Z",
+   "updated_at": "2026-09-06T08:48:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 41000
+  },
+  {
+   "order_id": "CH03-00098",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T08:40:00Z",
+   "updated_at": "2026-09-06T08:54:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 113000
+  },
+  {
+   "order_id": "CH02-00079",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T09:17:00Z",
+   "updated_at": "2026-09-06T09:32:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 153000
+  },
+  {
+   "order_id": "CH02-00080",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T09:24:00Z",
+   "updated_at": "2026-09-06T09:33:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 91000
+  },
+  {
+   "order_id": "CH02-00081",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T10:03:00Z",
+   "updated_at": "2026-09-06T10:13:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 46000
+  },
+  {
+   "order_id": "CH05-00085",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T10:06:00Z",
+   "updated_at": "2026-09-06T10:21:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 70000
+  },
+  {
+   "order_id": "CH03-00099",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T10:18:00Z",
+   "updated_at": "2026-09-06T10:29:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 138000
+  },
+  {
+   "order_id": "CH05-00086",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T10:46:00Z",
+   "updated_at": "2026-09-06T10:51:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 47000
+  },
+  {
+   "order_id": "CH01-00080",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T10:48:00Z",
+   "updated_at": "2026-09-06T10:55:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 137000
+  },
+  {
+   "order_id": "CH01-00081",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T10:48:00Z",
+   "updated_at": "2026-09-08T02:58:00Z",
+   "status": "cancelled",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 110000
+  },
+  {
+   "order_id": "CH04-00074",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T11:08:00Z",
+   "updated_at": "2026-09-06T11:25:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 70000
+  },
+  {
+   "order_id": "CH01-00082",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T11:09:00Z",
+   "updated_at": "2026-09-06T11:14:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 61000
+  },
+  {
+   "order_id": "CH02-00082",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T11:10:00Z",
+   "updated_at": "2026-09-06T11:24:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 151000
+  },
+  {
+   "order_id": "CH05-00087",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T11:14:00Z",
+   "updated_at": "2026-09-06T11:18:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 121000
+  },
+  {
+   "order_id": "CH01-00083",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T11:20:00Z",
+   "updated_at": "2026-09-06T11:34:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 179000
+  },
+  {
+   "order_id": "CH02-00083",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T11:21:00Z",
+   "updated_at": "2026-09-06T11:40:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 22000
+  },
+  {
+   "order_id": "CH04-00075",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T11:41:00Z",
+   "updated_at": "2026-09-06T11:59:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 2,
+     "unit_price": 35000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 70000
+  },
+  {
+   "order_id": "CH05-00088",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T11:42:00Z",
+   "updated_at": "2026-09-06T12:02:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 76000
+  },
+  {
+   "order_id": "CH04-00076",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T11:47:00Z",
+   "updated_at": "2026-09-06T11:57:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 45000
+  },
+  {
+   "order_id": "CH02-00084",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T12:08:00Z",
+   "updated_at": "2026-09-06T12:27:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 140000
+  },
+  {
+   "order_id": "CH03-00100",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T12:32:00Z",
+   "updated_at": "2026-09-08T03:31:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 123000
+  },
+  {
+   "order_id": "CH02-00085",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T12:48:00Z",
+   "updated_at": "2026-09-06T13:08:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 189000
+  },
+  {
+   "order_id": "CH05-00089",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T12:48:00Z",
+   "updated_at": "2026-09-06T13:06:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 78000
+  },
+  {
+   "order_id": "CH01-00084",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T12:50:00Z",
+   "updated_at": "2026-09-06T13:07:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 49000
+  },
+  {
+   "order_id": "CH03-00101",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T13:27:00Z",
+   "updated_at": "2026-09-06T13:39:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 164000
+  },
+  {
+   "order_id": "CH04-00077",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T13:42:00Z",
+   "updated_at": "2026-09-06T13:47:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 37000
+  },
+  {
+   "order_id": "CH04-00078",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T13:46:00Z",
+   "updated_at": "2026-09-06T14:01:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 183000
+  },
+  {
+   "order_id": "CH04-00079",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T13:55:00Z",
+   "updated_at": "2026-09-06T14:09:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 2,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 192000
+  },
+  {
+   "order_id": "CH01-00085",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T14:05:00Z",
+   "updated_at": "2026-09-06T14:23:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 220000
+  },
+  {
+   "order_id": "CH04-00080",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T14:05:00Z",
+   "updated_at": "2026-09-06T14:24:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 39000
+  },
+  {
+   "order_id": "CH02-00086",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T14:06:00Z",
+   "updated_at": "2026-09-06T14:22:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 86000
+  },
+  {
+   "order_id": "CH02-00087",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T14:11:00Z",
+   "updated_at": "2026-09-06T14:26:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 135000
+  },
+  {
+   "order_id": "CH05-00090",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T14:37:00Z",
+   "updated_at": "2026-09-06T14:50:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 2,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 273000
+  },
+  {
+   "order_id": "CH04-00081",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T14:51:00Z",
+   "updated_at": "2026-09-06T15:05:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 53000
+  },
+  {
+   "order_id": "CH05-00091",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T15:08:00Z",
+   "updated_at": "2026-09-06T15:13:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 133000
+  },
+  {
+   "order_id": "CH03-00102",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T15:12:00Z",
+   "updated_at": "2026-09-06T15:29:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 2,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 195000
+  },
+  {
+   "order_id": "CH03-00103",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T15:23:00Z",
+   "updated_at": "2026-09-06T15:32:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 2,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 79000
+  },
+  {
+   "order_id": "CH04-00082",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T15:52:00Z",
+   "updated_at": "2026-09-06T15:58:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 48000
+  },
+  {
+   "order_id": "CH05-00092",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T16:06:00Z",
+   "updated_at": "2026-09-06T16:24:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 2,
+     "unit_price": 35000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 156000
+  },
+  {
+   "order_id": "CH03-00104",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T16:13:00Z",
+   "updated_at": "2026-09-06T16:15:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 32000
+  },
+  {
+   "order_id": "CH05-00093",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T16:25:00Z",
+   "updated_at": "2026-09-06T16:42:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 82000
+  },
+  {
+   "order_id": "CH01-00086",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T16:32:00Z",
+   "updated_at": "2026-09-06T16:43:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 22000
+  },
+  {
+   "order_id": "CH04-00084",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T17:05:00Z",
+   "updated_at": "2026-09-06T17:23:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 38000
+  },
+  {
+   "order_id": "CH01-00087",
+   "store_id": "CH01",
+   "created_at": "2026-09-06T17:14:00Z",
+   "updated_at": "2026-09-06T17:23:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 31000
+  },
+  {
+   "order_id": "CH05-00094",
+   "store_id": "CH05",
+   "created_at": "2026-09-06T17:14:00Z",
+   "updated_at": "2026-09-06T17:29:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 80000
+  },
+  {
+   "order_id": "CH04-00083",
+   "store_id": "CH04",
+   "created_at": "2026-09-06T17:29:00Z",
+   "updated_at": "2026-09-06T17:43:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 2,
+     "unit_price": 42000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 121000
+  },
+  {
+   "order_id": "CH02-00088",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T17:33:00Z",
+   "updated_at": "2026-09-06T17:53:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 86000
+  },
+  {
+   "order_id": "CH03-00105",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T17:39:00Z",
+   "updated_at": "2026-09-06T17:55:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 149000
+  },
+  {
+   "order_id": "CH02-00089",
+   "store_id": "CH02",
+   "created_at": "2026-09-06T17:40:00Z",
+   "updated_at": "2026-09-06T17:54:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 113000
+  },
+  {
+   "order_id": "CH03-00106",
+   "store_id": "CH03",
+   "created_at": "2026-09-06T17:40:00Z",
+   "updated_at": "2026-09-06T17:51:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 32000
+  },
+  {
+   "order_id": "CH01-00088",
+   "store_id": "CH01",
+   "created_at": "2026-09-07T01:12:00Z",
+   "updated_at": "2026-09-07T01:24:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 171000
+  },
+  {
+   "order_id": "CH02-00090",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T01:15:00Z",
+   "updated_at": "2026-09-07T01:33:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 49000
+  },
+  {
+   "order_id": "CH03-00107",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T01:46:00Z",
+   "updated_at": "2026-09-07T01:48:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 113000
+  },
+  {
+   "order_id": "CH05-00095",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T01:57:00Z",
+   "updated_at": "2026-09-07T02:08:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 74000
+  },
+  {
+   "order_id": "CH02-00091",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T02:13:00Z",
+   "updated_at": "2026-09-07T02:18:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 2,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 192000
+  },
+  {
+   "order_id": "CH04-00085",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T02:31:00Z",
+   "updated_at": "2026-09-07T02:38:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 204000
+  },
+  {
+   "order_id": "CH05-00096",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T02:58:00Z",
+   "updated_at": "2026-09-07T03:16:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 54000
+  },
+  {
+   "order_id": "CH05-00097",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T03:11:00Z",
+   "updated_at": "2026-09-07T03:25:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 100000
+  },
+  {
+   "order_id": "CH01-00089",
+   "store_id": "CH01",
+   "created_at": "2026-09-07T03:16:00Z",
+   "updated_at": "2026-09-07T03:18:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 77000
+  },
+  {
+   "order_id": "CH01-00090",
+   "store_id": "CH01",
+   "created_at": "2026-09-07T03:20:00Z",
+   "updated_at": "2026-09-07T03:21:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 90000
+  },
+  {
+   "order_id": "CH05-00098",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T03:20:00Z",
+   "updated_at": "2026-09-07T03:27:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 41000
+  },
+  {
+   "order_id": "CH02-00092",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T03:29:00Z",
+   "updated_at": "2026-09-07T03:38:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 74000
+  },
+  {
+   "order_id": "CH01-00091",
+   "store_id": "CH01",
+   "created_at": "2026-09-07T03:52:00Z",
+   "updated_at": "2026-09-07T04:04:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 31000
+  },
+  {
+   "order_id": "CH02-00093",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T03:59:00Z",
+   "updated_at": "2026-09-07T04:19:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 84000
+  },
+  {
+   "order_id": "CH01-00092",
+   "store_id": "CH01",
+   "created_at": "2026-09-07T04:17:00Z",
+   "updated_at": "2026-09-07T04:22:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 168000
+  },
+  {
+   "order_id": "CH04-00086",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T04:38:00Z",
+   "updated_at": "2026-09-07T04:51:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 2,
+     "unit_price": 42000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 132000
+  },
+  {
+   "order_id": "CH04-00087",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T04:40:00Z",
+   "updated_at": "2026-09-07T04:52:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 60000
+  },
+  {
+   "order_id": "CH02-00094",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T04:41:00Z",
+   "updated_at": "2026-09-07T04:48:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 207000
+  },
+  {
+   "order_id": "CH02-00095",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T04:47:00Z",
+   "updated_at": "2026-09-07T04:51:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 28000
+  },
+  {
+   "order_id": "CH03-00108",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T04:50:00Z",
+   "updated_at": "2026-09-07T04:57:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 73000
+  },
+  {
+   "order_id": "CH05-00099",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T05:05:00Z",
+   "updated_at": "2026-09-07T05:24:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 32000
+  },
+  {
+   "order_id": "CH01-00093",
+   "store_id": "CH01",
+   "created_at": "2026-09-07T05:25:00Z",
+   "updated_at": "2026-09-07T05:45:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 49000
+  },
+  {
+   "order_id": "CH03-00109",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T05:42:00Z",
+   "updated_at": "2026-09-07T05:57:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 64000
+  },
+  {
+   "order_id": "CH01-00094",
+   "store_id": "CH01",
+   "created_at": "2026-09-07T05:45:00Z",
+   "updated_at": "2026-09-07T05:56:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 45000
+  },
+  {
+   "order_id": "CH03-00110",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T06:02:00Z",
+   "updated_at": "2026-09-07T06:09:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 93000
+  },
+  {
+   "order_id": "CH05-00100",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T06:19:00Z",
+   "updated_at": "2026-09-07T06:37:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 126000
+  },
+  {
+   "order_id": "CH04-00088",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T06:26:00Z",
+   "updated_at": "2026-09-07T06:27:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 174000
+  },
+  {
+   "order_id": "CH02-00096",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T06:29:00Z",
+   "updated_at": "2026-09-07T06:32:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 138000
+  },
+  {
+   "order_id": "CH05-00101",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T06:31:00Z",
+   "updated_at": "2026-09-07T06:46:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 113000
+  },
+  {
+   "order_id": "CH03-00111",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T06:50:00Z",
+   "updated_at": "2026-09-07T07:07:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 2,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 158000
+  },
+  {
+   "order_id": "CH04-00089",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T08:17:00Z",
+   "updated_at": "2026-09-07T08:32:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 61000
+  },
+  {
+   "order_id": "CH02-00097",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T08:18:00Z",
+   "updated_at": "2026-09-07T08:22:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 195000
+  },
+  {
+   "order_id": "CH04-00090",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T08:31:00Z",
+   "updated_at": "2026-09-07T08:32:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 66000
+  },
+  {
+   "order_id": "CH04-00091",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T08:43:00Z",
+   "updated_at": "2026-09-07T08:58:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 35000
+  },
+  {
+   "order_id": "CH02-00098",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T09:12:00Z",
+   "updated_at": "2026-09-07T09:24:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 126000
+  },
+  {
+   "order_id": "CH04-00092",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T09:14:00Z",
+   "updated_at": "2026-09-07T09:19:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 139000
+  },
+  {
+   "order_id": "CH01-00095",
+   "store_id": "CH01",
+   "created_at": "2026-09-07T09:22:00Z",
+   "updated_at": "2026-09-07T09:40:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": []
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 77000
+  },
+  {
+   "order_id": "CH04-00093",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T09:42:00Z",
+   "updated_at": "2026-09-07T09:58:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 94000
+  },
+  {
+   "order_id": "CH05-00102",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T09:56:00Z",
+   "updated_at": "2026-09-07T09:59:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 44000
+  },
+  {
+   "order_id": "CH05-00103",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T10:18:00Z",
+   "updated_at": "2026-09-07T10:25:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 166000
+  },
+  {
+   "order_id": "CH05-00104",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T11:04:00Z",
+   "updated_at": "2026-09-07T11:23:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 55000
+  },
+  {
+   "order_id": "CH05-00105",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T11:07:00Z",
+   "updated_at": "2026-09-07T11:17:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": []
+    },
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 1,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 147000
+  },
+  {
+   "order_id": "CH02-00099",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T11:19:00Z",
+   "updated_at": "2026-09-07T11:28:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 36000
+  },
+  {
+   "order_id": "CH04-00094",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T11:19:00Z",
+   "updated_at": "2026-09-07T11:20:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 46000
+  },
+  {
+   "order_id": "CH04-00095",
+   "store_id": "CH04",
+   "created_at": "2026-09-07T11:21:00Z",
+   "updated_at": "2026-09-07T11:26:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 1,
+     "unit_price": 37000,
+     "toppings": []
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 5000,
+   "total_amount": 156000
+  },
+  {
+   "order_id": "CH03-00112",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T11:42:00Z",
+   "updated_at": "2026-09-07T12:00:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 22000
+  },
+  {
+   "order_id": "CH01-00096",
+   "store_id": "CH01",
+   "created_at": "2026-09-07T12:01:00Z",
+   "updated_at": "2026-09-07T12:18:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 147000
+  },
+  {
+   "order_id": "CH02-00100",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T12:25:00Z",
+   "updated_at": "2026-09-07T12:35:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 139000
+  },
+  {
+   "order_id": "CH03-00113",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T12:29:00Z",
+   "updated_at": "2026-09-07T12:34:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 32000
+  },
+  {
+   "order_id": "CH03-00114",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T12:33:00Z",
+   "updated_at": "2026-09-07T12:52:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 2,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_TRANCHAU",
+       "name": "Trân châu đen",
+       "qty": 1,
+       "unit_price": 6000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 110000
+  },
+  {
+   "order_id": "CH05-00106",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T12:39:00Z",
+   "updated_at": "2026-09-07T12:42:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_CHANH",
+     "name": "Trà chanh",
+     "qty": 2,
+     "unit_price": 25000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      },
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 82000
+  },
+  {
+   "order_id": "CH05-00107",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T12:45:00Z",
+   "updated_at": "2026-09-07T13:04:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 36000
+  },
+  {
+   "order_id": "CH03-00115",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T12:53:00Z",
+   "updated_at": "2026-09-07T13:05:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 41000
+  },
+  {
+   "order_id": "CH05-00108",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T12:58:00Z",
+   "updated_at": "2026-09-07T13:12:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 2,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 116000
+  },
+  {
+   "order_id": "CH01-00097",
+   "store_id": "CH01",
+   "created_at": "2026-09-07T13:05:00Z",
+   "updated_at": "2026-09-07T13:15:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "TRA_VAI",
+     "name": "Trà vải",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    },
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_KEM",
+       "name": "Kem cheese",
+       "qty": 1,
+       "unit_price": 10000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 84000
+  },
+  {
+   "order_id": "CH02-00101",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T14:38:00Z",
+   "updated_at": "2026-09-08T02:32:00Z",
+   "status": "cancelled",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 10000,
+   "total_amount": 28000
+  },
+  {
+   "order_id": "CH05-00109",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T14:58:00Z",
+   "updated_at": "2026-09-07T15:02:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TS_TRANCHAU",
+     "name": "Trà sữa trân châu",
+     "qty": 1,
+     "unit_price": 35000,
+     "toppings": []
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 1,
+     "unit_price": 39000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 74000
+  },
+  {
+   "order_id": "CH02-00102",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T15:18:00Z",
+   "updated_at": "2026-09-07T15:22:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    },
+    {
+     "sku": "TS_KHOAIMON",
+     "name": "Trà sữa khoai môn",
+     "qty": 2,
+     "unit_price": 37000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 127000
+  },
+  {
+   "order_id": "CH03-00116",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T16:01:00Z",
+   "updated_at": "2026-09-07T16:05:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "TRA_DAO",
+     "name": "Trà đào cam sả",
+     "qty": 1,
+     "unit_price": 32000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 39000
+  },
+  {
+   "order_id": "CH03-00117",
+   "store_id": "CH03",
+   "created_at": "2026-09-07T16:05:00Z",
+   "updated_at": "2026-09-07T16:23:00Z",
+   "status": "completed",
+   "channel": "shopeefood",
+   "items": [
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 2,
+     "unit_price": 29000,
+     "toppings": []
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 58000
+  },
+  {
+   "order_id": "CH02-00103",
+   "store_id": "CH02",
+   "created_at": "2026-09-07T16:26:00Z",
+   "updated_at": "2026-09-07T16:41:00Z",
+   "status": "completed",
+   "channel": "grab",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 51000
+  },
+  {
+   "order_id": "CH05-00110",
+   "store_id": "CH05",
+   "created_at": "2026-09-07T16:52:00Z",
+   "updated_at": "2026-09-07T16:56:00Z",
+   "status": "completed",
+   "channel": "tai_quay",
+   "items": [
+    {
+     "sku": "SUA_TUOI_DD",
+     "name": "Sữa tươi đường đen",
+     "qty": 1,
+     "unit_price": 42000,
+     "toppings": []
+    },
+    {
+     "sku": "CF_SUA",
+     "name": "Cà phê sữa",
+     "qty": 1,
+     "unit_price": 29000,
+     "toppings": [
+      {
+       "sku": "TOP_THACH",
+       "name": "Thạch dừa",
+       "qty": 1,
+       "unit_price": 7000
+      },
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    },
+    {
+     "sku": "TS_MATCHA",
+     "name": "Trà sữa matcha",
+     "qty": 2,
+     "unit_price": 39000,
+     "toppings": [
+      {
+       "sku": "TOP_PUDDING",
+       "name": "Pudding trứng",
+       "qty": 1,
+       "unit_price": 9000
+      }
+     ]
+    }
+   ],
+   "discount_amount": 0,
+   "total_amount": 183000
+  }
+ ]
+}
